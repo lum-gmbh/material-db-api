@@ -1,1 +1,1 @@
-# material-db-server
+# material-db-api
